@@ -1,0 +1,6 @@
+schematics ard-icsp.sch
+output-name ../pcb/ard-icsp
+skip-m4
+elements-dir ../../ise-footprints
+
+
